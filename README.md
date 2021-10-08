@@ -1,1 +1,1 @@
-# Discord-Account-Register
+# Discord-Auto-Account-Register
